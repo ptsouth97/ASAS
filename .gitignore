@@ -1,0 +1,5 @@
+*.tgz
+*.gz
+00/
+__pycache__/
+ACVS.txt
